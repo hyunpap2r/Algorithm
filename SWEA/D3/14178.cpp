@@ -21,6 +21,7 @@ int main()
         else
             ans = n/b+1;
     
+    
         cout << "#" << tc << " " << ans << "\n";
     }
 
