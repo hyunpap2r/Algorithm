@@ -1,2 +1,2 @@
 # Algorithm
-(Back Joon  / SWEA)
+(Baek Joon  / SWEA)
